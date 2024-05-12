@@ -1,0 +1,7 @@
+{
+    "editor.formatOnSave": true,
+    "editor.formatOnPaste": true,
+    "diffEditor.codeLens": true,
+    "workbench.colorTheme": "Default Dark+",
+    "workbench.editor.decorations.colors": false
+}
